@@ -42,7 +42,7 @@
     • Amazon S3 Glacier and S3 Glacier Deep Archive ✅️
     • Amazon FSx for Lustre ✅️
     • Amazon FSx for NatApp ONTAP  ✅️
-    • Amazon FSx for OpenZFS
+    • Amazon FSx for OpenZFS ✅️
     • Amazon FSx for Windows File Server ✅️
     • Amazon Snow Family ✅️
     • AWS Storage Gateway 
@@ -52,25 +52,35 @@
 
 ## Networking and Content Delivery: 
 
-    • Virtual private cloud (VPC) ✅️
-    • AWS PrivateLink
+    • Virtual private cloud  ✅️
     • VPC Peering ✅️
     • AWS Direct Connect ✅️
-    • AWS Site-to-Site VPN 
-    • AWS Client VPN
+    • AWS Site-to-Site VPN  (VPN) ✅️
+    • AWS Client VPN    (VPN) ✅️
     • AWS Global Accelerator
     • Elastic Load Balancing (ELB)
-    • Amazon Route 53
+        • Classic Load Balancer
+        • Application Load Balancer
+        • Network Load Balancer
+        • Gateway Load Balancer
+    • Amazon Route 53 ⭕️
     • Amazon CloudFront
+    • VPC Endpoints 
+        • Gateway VPC Endpoints ✅️
+        • Interface Endpoints ✅️
+        • Gateway Load Balancer Endpoint ⭕️
+    • VPC PrivateLink/Endpoint Services ✅️
+    • VPC Flow Logs ⭕️
+    • VPC Managed Prefix List ✅️
 
-    **......  AWS Networking Gateways ........**
-    • AWS Internet Gateway ✅️
-    • AWS Customer Gateway 
-    • AWS VPN Gateway 
-    • AWS Direct Connect Gateway 
-    • AWS NAT Gateway ✅️
-    • AWS Transit Gateway ✅️
-    • AWS Virtual Gateways
+    • AWS Networking Gateways
+        • AWS Internet Gateway ✅️ 
+        • AWS Customer Gateway  (VPN) ✅️
+        • AWS VPN Gateway/Virtual Private Gateway (VPN) ✅️
+        • AWS Direct Connect Gateway ✅️
+        • AWS NAT Gateway ✅️
+        • AWS Transit Gateway ✅️
+        • AWS Virtual Gateways 
 
    
 ----------------------------------------------------------------
