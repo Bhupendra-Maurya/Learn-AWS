@@ -6,6 +6,12 @@
 
 ➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️
 
+# [AWSome Day Online Conference](https://aws.amazon.com/events/awsome-day/awsome-day-online/?sc_icampaign=event_awsome-day-online-1up&sc_ichannel=ha&sc_icontent=awssm-4495_event&sc_iplace=1up&trk=74156672-da8d-4798-9ad7-3dc87c5dbeec~ha_awssm-4495_event&trkCampaign=awsome-day-online)
+
+# [AWS Training & Certification on Twitch](https://resources.awscloud.com/vod-twt-aws-cloud-quest-cloud-practitioner)
+
+# [AWS Resource Hub](https://resources.awscloud.com/)
+
 # [AWS Documentation](https://docs.aws.amazon.com/)
 
 
@@ -60,8 +66,8 @@
     • AWS Global Accelerator
     • Elastic Load Balancing (ELB)
         • Classic Load Balancer
-        • Application Load Balancer
-        • Network Load Balancer
+        • Application Load Balancer ✅️
+        • Network Load Balancer ✅️
         • Gateway Load Balancer
     • Amazon Route 53 ⭕️
     • Amazon CloudFront
@@ -72,6 +78,10 @@
     • VPC PrivateLink/Endpoint Services ✅️
     • VPC Flow Logs ⭕️
     • VPC Managed Prefix List ✅️
+    • Amazon VPC Lattice
+    • AWS Global Accelerator
+    • Amazon API Gateway
+    • AWS Cloud WAN
 
     • AWS Networking Gateways
         • AWS Internet Gateway ✅️ 
@@ -84,6 +94,34 @@
 
    
 ----------------------------------------------------------------
+
+## Database:
+    • Amazon Relational Databases (RDS)
+       • Amazon Aurora
+       • PostgreSQL
+       • MySQL
+       • MariaDB
+       • Oracle Database
+       • Microsoft SQL Server
+       • Amazon Redshift
+    • Key-Value Database
+        • Amazon DynamoDB
+    • Document Database
+        • Amazon DocumentDB (with MongoDB compatibility)
+    • Timestream Database
+        • Amazon Timestream
+    • In-Memory Database
+        • Amazon ElastiCache
+    • Graph Database
+        • Amazon Neptune
+    • Ledger Database
+        • Amazon Quantum Ledger Database (Amazon QLDB)
+    • Keyspaces Database
+        • Amazon Keyspaces (for Apache Cassandra)
+
+    • Amazon Aurora Serverless
+----------------------------------------------------------------
+
 
 ## Serverless:
     • AWS AppSync
@@ -100,18 +138,6 @@
     • Amazon EKS Distro
 ----------------------------------------------------------------
 
-## Database:
-    • Amazon Aurora
-    • Amazon Aurora Serverless
-    • Amazon DocumentDB (with MongoDB compatibility)
-    • Amazon DynamoDB
-    • Amazon ElastiCache
-    • Amazon Keyspaces (for Apache Cassandra)
-    • Amazon Neptune
-    • Amazon Quantum Ledger Database (Amazon QLDB)
-    • Amazon RDS
-    • Amazon Redshift
-----------------------------------------------------------------
 
 ## Security, Identity, and Compliance:
     • AWS Artifact
